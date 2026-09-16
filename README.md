@@ -100,7 +100,7 @@ Input Image (224×224×3)
 
 ---
 
-## 📊 Improvements Over Baseline
+##  Improvements Over Baseline
 
 | Problem | Fix Applied |
 |---|---|
@@ -114,7 +114,7 @@ Input Image (224×224×3)
 
 ---
 
-## 🔍 XAI (Explainability)
+##  XAI (Explainability)
 
 Three visualization techniques included:
 - **Prediction Grid** — test images with true vs predicted labels (green = correct, red = wrong)
@@ -147,7 +147,7 @@ Open `Codefile.ipynb` in Google Colab and run all cells top to bottom.
 
 ---
 
-## 🔧 Stack
+##  Stack
 
 `Python` · `PyTorch` · `PennyLane` · `torchvision` · `scikit-learn` · `Matplotlib` · `Seaborn` · `Google Colab`
 
